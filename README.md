@@ -11,19 +11,23 @@ Project Documentation
 Team Meeting: a description of general business, tasks, attendance, apologies, distribution of tasks, some info about the next meeting, etc.)
 
     https://docs.google.com/document/d/1XzFqpD3QCFiMX7U2gaybB-R-u-MG13R28WtF0Vnzd_Q/edit?usp=sharing
+    
+    In the next meeting we should further discuss the requirements of our project (the product, tasks to complete, constraints, etc.), as well as assign roles and agree on how       to collaborate to complete said project, provided both members are available to attend the meeting. 
 
 Stakeholders (internal, external, key roles, personal profile (position, full name, user name, from, education, work experience. etc).
 
-  Cameron Wood (CmJnWd)
+    Cameron Wood (CmJnWd)
 
     Client (External)
 
-  Gabriel Robinson (GabrielR-EIT)
+
+
+    Gabriel Robinson (GabrielR-EIT)
 
     Project Manager (Internal)
     Napier, Hawke's Bay
     Napier Boys High School, Southern Institute of Technology (Extramural), Eastern Institute of Technology (Current)
-    Tradestaff (5 Months)
+    Tradestaff (5 months)
 
 Project Charter: (company profile, Purpose & scope, Problem Statement, Business Case & Benefits, Project vision, major tasks) 
 
