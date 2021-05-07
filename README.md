@@ -12,15 +12,13 @@ Team Meeting: a description of general business, tasks, attendance, apologies, d
 
     https://docs.google.com/document/d/1XzFqpD3QCFiMX7U2gaybB-R-u-MG13R28WtF0Vnzd_Q/edit?usp=sharing
     
-    In the next meeting we should further discuss the requirements of our project (the product, tasks to complete, constraints, etc.), as well as assign roles and agree on how       to collaborate to complete said project, provided both members are available to attend the meeting. 
+    In the next meeting we should further discuss the requirements of our project (the product, tasks to complete, constraints, etc.), as well as assign roles and agree on how to collaborate to complete said project, provided both members are available to attend the meeting. 
 
 Stakeholders (internal, external, key roles, personal profile (position, full name, user name, from, education, work experience. etc).
 
     Cameron Wood (CmJnWd)
 
     Client (External)
-
-
 
     Gabriel Robinson (GabrielR-EIT)
 
@@ -35,9 +33,9 @@ Project Charter: (company profile, Purpose & scope, Problem Statement, Business 
   
     The purpose is to design and develop a website that promotes a particular topic. The scope of this project is one website.
   
-    The constraints for this project are time (7 weeks), budget (minimal), the technology we have access to, the capabilities of website users 
+    The constraints for this project are time (7 weeks), budget (minimal), the technology we have access to, the capabilities of website users, number of team members (2) and their applicable skills. 
   
-    The benefits of creating our website include: producing a product that can be accessed by users and is informative about the relevant topic
+    The benefits of creating our website include: producing a product that can be accessed by users and is informative about the relevant topic.
   
     The major tasks for our project will be: initiation, project planning, execution, and closure.
 
@@ -57,7 +55,9 @@ Pseudo-code
 
 Resources needs (Resources needed suitable for our work, task and requirement needs, budget details, resource allocation, etc.)
 
-
+        To deliver our project, Nuclear Pasta will need access to computers, the internet (GitHub and EIT Online), and software.
+        
+        The expectations of the client will be a website that describes Nuclear Pasta's product appropriately, with accurate and relevant information, and a professional overall design. They will expect the final product to be delivered by the given date (June 17, 2021).
 
 Risk register (description, likelihood, severity, resolve plan)
 
