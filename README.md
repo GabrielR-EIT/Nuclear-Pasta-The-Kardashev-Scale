@@ -23,11 +23,14 @@ Stakeholders (internal, external, key roles, personal profile (position, full na
     Gabriel Robinson (GabrielR-EIT)
 
     Project Manager (Internal)
+    
     Napier, Hawke's Bay
     Napier Boys High School, Southern Institute of Technology (Extramural), Eastern Institute of Technology (Current)
     Tradestaff (5 months)
 
 Project Charter: (company profile, Purpose & scope, Problem Statement, Business Case & Benefits, Project vision, major tasks) 
+
+    https://1drv.ms/x/s!Am9hyvUC7bc3jxMnwzj3sUBfAfC0?e=gfBIYL
 
     Nuclear Pasta
   
