@@ -8,11 +8,23 @@ Potential Project Topics
 
 Project Documentation
 
+        Examples of Documentation:
+        
+        https://temahau-my.sharepoint.com/:o:/r/personal/robing7_student_eit_ac_nz/Documents/EIT%20Bachelor%20of%20Computing%20Systems/Gabriel%20Robinson%20-%20Bachelor%20of%20Computing%20Systems?d=w56dab015fc234916997e2aff1954fc29&csf=1&web=1&e=mJBk0r
+
 Team Meeting: a description of general business, tasks, attendance, apologies, distribution of tasks, some info about the next meeting, etc.)
+
+    Week 1 Session 2 Meeting:
 
     https://docs.google.com/document/d/1XzFqpD3QCFiMX7U2gaybB-R-u-MG13R28WtF0Vnzd_Q/edit?usp=sharing
     
     In the next meeting we should further discuss the requirements of our project (the product, tasks to complete, constraints, etc.), as well as assign roles and agree on how to collaborate to complete said project, provided both members are available to attend the meeting. 
+    
+    Week 2 Session 1 Meeting:
+
+    https://docs.google.com/document/d/1Oea3aY2Ftz0ZZTRpfXrBgBzRVU_fe_H0rNN5iRSDeKo/edit?usp=sharing
+    
+    In this meeting our team decided on the subject of our project, a website dedicated to the Kardashev Scale. We brainstormed the important (hypothetical) aspects of our project, such as deliverables, milestones, risks, dependencies, and stakeholders, and drafted a project charter to establish these elements in an informative tabular format. 
 
 Stakeholders (internal, external, key roles, personal profile (position, full name, user name, from, education, work experience. etc).
 
@@ -36,7 +48,7 @@ Project Charter: (company profile, Purpose & scope, Problem Statement, Business 
   
     The purpose is to design and develop a website that promotes a particular topic. The scope of this project is one website.
   
-    The constraints for this project are time (7 weeks), budget (minimal), the technology we have access to, the capabilities of website users, number of team members (2) and their applicable skills. 
+    The constraints for this project are time (7 weeks), budget (minimal), the technology we have access to, the capabilities of website users, number of team members (2) and the extent of their applicable skills. 
   
     The benefits of creating our website include: producing a product that can be accessed by users and is informative about the relevant topic.
   
