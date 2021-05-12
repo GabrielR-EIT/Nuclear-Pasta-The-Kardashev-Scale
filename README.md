@@ -62,7 +62,19 @@ Work Breakdown Structure (WBS): table-based information includes (week, start da
 
 Description of products (product features, an analysis of competing products, reflections analysis)
 
+        Product Features:
+        
+        Our final product / website is to feature nine web pages (Introduction, About, Fermi and Drake, Type 1 Civilizations, Type 2 Civilizations, Type 3 Civilizations, Absurdly Advanced, Bibliography, and Contact) detailing the theory behind the Kardashev scale, its levels, a list of sources for any external material appropriated, and a section providing contact details (email address, password, etc.) for our organisation.
+        
+        The information provided on our website will be delivered through text, static images, animated images (.gifs), and sourced videos. There will be a gallery displaying several interactive image elements and users will be able to navigate the site by scrolling up/down and clicking links to other pages located on the navigation bar.  
 
+        Competing Products:
+        
+        Kardashev Scale Wiki - https://kardashev.fandom.com/wiki/Kardashev_Scale_Wiki
+        
+        Futurism - https://futurism.com/
+        
+        Daily Galaxy - https://dailygalaxy.com/
 
 Pseudo-code
 
@@ -92,3 +104,15 @@ Handover (configuration report, deployment documentation, maintenance, install u
 
 Weekly progress updates (your weekly journal)
 
+        Website Elements to Add / Improve On:
+        
+        Proofreading (Improve spelling, grammar, punctuation, etc.)
+        
+        Change website layout by adjusting the position of page elements (images, text, etc.)
+        
+        Add / replace 'About' and 'Contact' details with newer, more relevant ones for Nuclear Pasta
+        
+        Adjust text elements (size, font) to be more visually-appealing and/or better suit the website's theme
+        
+        
+        
