@@ -114,5 +114,13 @@ Weekly progress updates (your weekly journal)
         
         Adjust text elements (size, font) to be more visually-appealing and/or better suit the website's theme
         
+        Change background of text container to be more nice
+        
+        Break up walls of text (paragraphing)
+        
+        Fix the white space at the bottom of 'About' and 'Contact' pages
+        
+        Set navbar text to be highlighted to show which page the user is currently on
+        
         
         
