@@ -72,9 +72,9 @@ Description of products (product features, an analysis of competing products, re
         
         Kardashev Scale Wiki - https://kardashev.fandom.com/wiki/Kardashev_Scale_Wiki
         
-        Futurism - https://futurism.com/
+        Futurism - https://futurism.com
         
-        Daily Galaxy - https://dailygalaxy.com/
+        Daily Galaxy - https://dailygalaxy.com
 
 Pseudo-code
 
