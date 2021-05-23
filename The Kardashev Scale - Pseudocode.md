@@ -6,7 +6,7 @@ ON page load
   set page(currentPage)_link = active
 
 IF pageX_link is touched 
-  set pageX_link = highlighted
+  set pageX_link = highlighted  
 ELSE
   set pageX_link = NOT highlighted
 
