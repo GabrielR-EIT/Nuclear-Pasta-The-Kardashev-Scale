@@ -22,9 +22,9 @@ IF galleryImageX is pressed
   SET galleryView = 1
   SET galleryImage = galleryImageX
   
-IF galleryView = 1 AND galleryImage is pressed 
-  set galleryImage = highlighted
-ELSE
+IF galleryView = 1 AND galleryImage is pressed  
+  set galleryImage = highlighted 
+ELSE 
   set galleryImage = NOT highlighted
   
 IF galleryView = 1
