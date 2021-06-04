@@ -18,7 +18,7 @@
   list-style-type: none;
 }
 
-a:link, a:visited {
+nav li a, #main a {
   background-color: rgba(51, 102, 153, 0.3);
   color: white;
   padding: 2.5px 5px;
@@ -37,7 +37,7 @@ h1, h2, h3, h4 {
   padding: 17.5px 0;
 }
 
-nav li a:hover:not(.active) {
+nav li a:hover:not(.active), #main a:hover {
   background-color: #33a5ab;
 }
 
@@ -48,6 +48,13 @@ a.active {
 
 h2 > em {
   color: rgb(230, 3, 15);
+}
+
+hr {
+  background-color: rgb(230, 3, 15);
+  border: none;
+  width: 80%;
+  height: 2px;
 }
 
 body {
@@ -100,12 +107,10 @@ body {
   clear: both;
 }
 
-
 .column {
   float: left;
   width: 16%;
 }
-
 
 .modal {
   display: none;
@@ -120,7 +125,6 @@ body {
   background-color: black;
 }
 
-
 .modal-content {
   position: relative;
   background-color: #fefefe;
@@ -129,7 +133,6 @@ body {
   width: 90%;
   max-width: 1000px;
 }
-
 
 .close {
   color: rgb(230, 3, 15);
@@ -147,11 +150,9 @@ body {
   cursor: pointer;
 }
 
-
 .mySlides {
   display: none;
 }
-
 
 .prev,
 .next {
@@ -170,18 +171,15 @@ body {
   -webkit-user-select: none;
 }
 
-
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-
 .prev:hover,
 .next:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
-
 
 .numbertext {
   color: #f2f2f2;
@@ -190,7 +188,6 @@ body {
   position: absolute;
   top: 0;
 }
-
 
 .caption-container {
   text-align: center;
