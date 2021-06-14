@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<script src="js/js.js"></script>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css"/>
+	<link href='https://fonts.googleapis.com/css?family=Work Sans' rel='stylesheet'>
+	<link href='https://fonts.googleapis.com/css?family=Zen Dots' rel='stylesheet'>
+    <meta charset="utf-8">
+    <title>Introduction - Kardashev Scale</title>
+  </head>
+
+	<body>
+		<div id="container">
+			<div id="headerandnav">
+				<div id="header">
+					<h1><a href="1 - Kardashev Scale Home.html"><img src="media/title.png"  alt="KardashevScale" style="width: 680px;"></a></h1>
+				</div>
+				<div id="nav">
+					<nav>
+						<ul>
+							<li><a class="active">Introduction</a></li> 
+							<li><a href="2 - Kardashev Scale - F_D.html">Fermi and Drake</a></li>
+							<li><a href="3 - Kardashev Type 1.html">Type 1 Civilizations</a></li>
+							<li><a href="4 - Kardashev Type 2.html">Type 2 Civilizations</a></li>
+							<li><a href="5 - Kardashev Type 3.html">Type 3 Civilizations</a></li>
+							<li><a href="6 - Absurd.html">Absurdly Advanced</a></li>
+							<li><a href="7 - The Project.html">The Project</a></li>
+							<li><a href="8 - Bibliography.html">Bibliography</a></li>
+							<li><a href="9 - The Team.html">The Team</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+
+		<main>
+			<div id="content">
+				<div id="main">
+					<div id="image">
+						<img src="media/KardashevScale.png" alt="Kardashev Scale">
+					</div>
+					<div> 
+						<h1>Introduction</h1>
+						<p>In 1964, a Soviet astronomer by the name of Nikolai Kardashev coined the idea of a measurement system that categorizes a civilization based on its energy consumption. The more energy they use, the higher up the Kardashev Scale they will be. For comparison, humans are currently at roughly 0.73 on the scale.<br><br>
+						In a nutshell, these are the basic milestones for any advanced civilization:</p>
+					</div>
+				</div>  
+				<div id="main2">
+						<h4>Type 1: Harnessing all available energy of the host planet<br><br>
+						Type 2: Harnessing all available energy of the host solar system<br><br>
+						Type 3: Harnessing all available energy of the host galaxy</h4>
+						<h2>Each step is comparable to humans first harnessing fire, giving rise to, at the time, unimaginable advancements.</h2>
+						<p>Michio Kaku estimates that, assuming a 3% per year increase in humanity’s total energy consumption (oil, solar, wind, geothermal, etc.), it would take 100 – 200 years to reach Type 1 status, Type 2 may take a few thousand years, and Type 3 status could be attained in roughly one million years.<br><br>
+						We are tantalisingly close to Type 1.<br><br>
+						There are people alive today that, considering today’s medical breakthroughs and assuming the average person born today could potentially live for 150+ years, could see us make the leap to the very first rung on this incredible ladder.<br><br>
+						The above image shows the standard for the scale.<br><br>
+						Type 2 consumes ten billion times more energy than Type 1, and Type 3 consumes 100 billion times more than Type 2.</p>
+						<h2><em>▼</em> Click These <em>▼</em></h2>
+				</div>
+				
+				<div class="row">
+					<div class="column">
+						<img src="media/wanderers1.gif" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+					<div class="column">
+						<img src="media/wanderers2.gif" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+					<div class="column">
+						<img src="media/wanderers3.gif" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+					<div class="column">
+						<img src="media/wanderers4.gif" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+					<div class="column">
+						<img src="media/wanderers5.gif" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+					<div class="column">
+						<img src="media/wanderers6.gif" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor" width="200" height="60">
+					</div>
+				</div>
+
+				<div id="myModal" class="modal">
+					<span class="close cursor" onclick="closeModal()">&times;</span>
+					<div class="modal-content">
+
+						<div class="mySlides">
+							<div class="numbertext">1 / 6</div>
+								<img src="media/wanderers1.gif" style="width:100%">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">2 / 6</div>
+								<img src="media/wanderers2.gif" style="width:100%">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">3 / 6</div>
+								<img src="media/wanderers3.gif" style="width:100%">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">4 / 6</div>
+								<img src="media/wanderers4.gif" style="width:100%">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">5 / 6</div>
+								<img src="media/wanderers5.gif" style="width:100%">
+						</div>
+						<div class="mySlides">
+							<div class="numbertext">6 / 6</div>
+								<img src="media/wanderers6.gif" style="width:100%">
+						</div>
+
+				<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+				<a class="next" onclick="plusSlides(1)">&#10095;</a>
+	
+					<div class="caption-container">
+						<p id="caption"></p>
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers1.gif" style="width:160; height:60;" onclick="currentSlide(1)" alt="O'Neil Cylinder made from a hollowed out asteroid. Once the cylinder inside the giant space rock had been hollowed out, the ends were capped off and the interior was filled with a breathable atmosphere of roughly 78% nitrogen and 21% oxygen. The asteroid was then spun up, much like those carnival rides that pin you to the wall by spinning, so as to simulate regular Earth gravity." width="150" height="60">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers2.gif" style="width:160; height:60;" onclick="currentSlide(2)" alt="Habitation Domes along the equatorial ridge on Iapetus, one of the 82 moons in orbit around Saturn. Perfect for a research station to study the moon's fascinating geography." width="150" height="60">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers3.gif" style="width:160; height:60;" onclick="currentSlide(3)" alt="In orbit around Jupiter. Much like, but to a lesser extent, Saturn and its 82 moons, Jupiter on the other hand only has 79. The lack of stuff orbiting Jupiter compared to Saturn however is more than compensated for. Saturn lies on average 1.4953 billion km from the Sun, whereas Jupiter lies only 773 million km away. That's two times as close to us than Saturn is. Jupiter's position relative to the Sun, admittedly much farther than Earth is from the Sun at only 150 million kms, puts the planet and its miniature solar system of moons and delicate rings, much fainter than the brilliant rings around Saturn, behind the 'Frost Line' where the temperatures are so cold that H2O, A.K.A dihydrogen monoxide, or more simply just 'water', freezes permanently into ice and becomes a planetary building material no more different than the rocks that became our tallest mountains. This water, locked up in nearby lifeless moons and asteroids that are just waiting to be mined and utilized. With all those relatively large and resource packed celestial bodies being so tightly held together by Jupiter, this would make the perfect outpost for missions into the depths of space." width="150" height="60">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers4.gif" style="width:160; height:60;" onclick="currentSlide(4)" alt="The Space Elevator. Shown here being lowered and raised above the planet Mars. At this point in time, 2020 for record's sake, our civilization has yet to even begin mass producing materials strong enough to build one such elevator on Earth. There are a few contenders, but nothing capable of spitting out thousands of kms of cables. However, with the Moon having one-sixth the gravity of Earth, building a space elevator on its surface is not only do-able, but it's a no brainer. With a structure just like what you see here, there will be very little need for the use of rockets for delivering payloads and people to the surface and back, the only exceptions being things too heavy for the structure to support. This will dramatically reduce the cost of spaceflight missions, will pave the way for space tourism, and maybe most importantly of all, will turn our Moon, a constant companion for billions of years, into the first rung of the long ladder of solar system and galactic exploration." width="150" height="60">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers5.gif" style="width:160; height:60;" onclick="currentSlide(5)" alt="Imagine yourself trekking along the icy surface of Europa, crossing giant chasms, much like what you would find on glaciers here on Earth except on steroids. Those deep pits are formed by Jupiter massive gravitation field. Just as the moon causes tides on Earth, the Earth in return also causes tides on the Moon, the thing is though the Moon's solid rocky surface can withstand the 'tidal flexing' whereas our liquid oceans will be pulled and squeezed. Europa, along with all the other moons in orbit around Jupiter all have this same effect on the giant planet, but due to the difference in size, it is hardly noticeable. Europa’s orbit puts it second place to Io in terms of distance from Jupiter. With less 'tidal distortion', the moon can remain frozen over, but a mere several kilometres below the surface scientists have found a salty liquid water ocean.<br><br>
+						Yes that's right. Stating that 'Earth is precious because of its water' can at first sound reasonable, but the assumption is incorrect. Water exists in functionally unlimited quantities in space. Europa actually holds more than twice the total amount of water as there is on Earth. Obviously water is the best as you can drink it and grow plants with it, but you can also separate the hydrogen and oxygen that together make the water molecule that we all know and love and you can breath the new oxygen you have just released, and one thing that might go unnoticed unless you run a space program, you can combine the 2 elements back into the H2O molecule. That might not sound like much, but it's literally rocket fuel. There are rockets today that use this method and the only exhaust that leaves the rocket nozzle is good old water vapour. And secondly, assuming the reality of the non-scarcity of things that we require to survive doesn't mean much to you, there's even evidence for deep sea volcanic vents.<br><br>
+						In a nutshell, carbon-based life loves them. They exude a rich chemical soup that organisms can depend upon. We see it here on Earth, a huge diverse array of species all living in a closed off ecosystem, anchored in the deep dark oceans by these volcanic vents. The chances of finding whales or sharks, or heck even mermaids, is slim at best. But 'astrobiologists' agree that if life were to be thriving underneath Europa's ice sheets then they would most likely be very simple, single-cell organisms; Maybe if we're very lucky we'll see an alien fish. But the thing is, all we have to do is go and look, and maybe, just maybe, one of the greatest questions of mankind will have been answered. No, we are not alone." width="150" height="60">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="media/wanderers6.gif" style="width:160; height:60;" onclick="currentSlide(6)" alt="Cruising above the cloudtops of Saturn would be a breathtaking sight. Both figuratively and literally, as the planet's atmosphere can't even compare with our own. In saying that, it wouldn't take much to be able to sit back and enjoy a view like this. Does anybody ever remember blimps? Yea those things. Just take idea, make it space-worthy, and set it down in the cloudtops of Saturn. There, assuming you set the correct pressure inside your ship, you will bob up and down until you reach equilibrium where the craft is perfectly in balance with the atmosphere around it, just like how a helium balloon floats. In this case, once you settle at a comfortable altitude all you need to do is ride the wind currents and, with some decent warm clothing and an oxygen mask, you could step out onto the balcony of your 'SpaceBlimp' and sail the skies of the Solar System's most majestic ringed planet." width="150" height="60">
+					</div>
+				</div>
+			</div>
+
+			</div>
+			<div id="video">
+				<h2>Down The Rabbit Hole</h2>
+					<body>
+						<iframe width="960" height="364" src="https://www.youtube.com/embed/tTHxhkohUb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</body>
+					<body>
+						<iframe width="960" height="364" src="https://www.youtube.com/embed/YH3c1QZzRK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</body>
+					<body>
+						<iframe width="960" height="364" src="https://www.youtube.com/embed/NtQkz0aRDe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</body>
+					<body>
+						<iframe width="960" height="364" src="https://www.youtube.com/embed/CdUCndZfEzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</body>
+			</div>
+		</main>
+		
+	<footer>
+		<p>© 2021 Nuclear Pasta. All rights reserved.</p>
+	</footer>
+	</div id="container">
+	</body>
+</html>
